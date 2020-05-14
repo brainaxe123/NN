@@ -1,3 +1,3 @@
 # NN
-getting started with neural networks
+getting started with neural networks__
 #I am following Udacity's course on deep learning and this repo will have codes and projects regarding same.
